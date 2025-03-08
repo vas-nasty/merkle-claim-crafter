@@ -1,3 +1,4 @@
 # auto-createdeth-abi==2.4.4
 web3==0.8.6
 eth-abi==0.8.6
+web3==0.1.8
